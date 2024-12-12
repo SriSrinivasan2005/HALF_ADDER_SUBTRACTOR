@@ -1,10 +1,6 @@
 ### NAME: SRI SRINIVASAN K
 ### Reg No:24900578
-### Exp N0: 3
-
-### HALF_ADDER_SUBTRACTOR
-
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
+### Exp N0 3: HALF ADDER AND HALF SUBTRACTOR
 
 ### **AIM:**
 
